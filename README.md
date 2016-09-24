@@ -11,7 +11,7 @@ Please visit [nw.js group](http://groups.google.com/group/nwjs-general) for disc
 https://github.com/nwjs/nw.js/wiki/How-to-run-apps
 
 Easy way
-
+z
 ```sh
 npm install -g nw
 git clone https://github.com/zcbenz/nw-sample-apps.git
